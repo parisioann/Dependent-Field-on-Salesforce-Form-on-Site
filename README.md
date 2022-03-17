@@ -6,7 +6,7 @@ The images below show the creation of a dependent field called 'Sub-Industry'. A
 
 The implementation has as follows:
 
-A new field has been added to the current form. It is only visible when a Industy Sector value has been chosen. Then according to that the Sub-Industry field will populate the relevant options to choose from. 
+A new field has been added to the current form. It is only visible when an Industy Sector value has been chosen. Then according to that the Sub-Industry field will populate the relevant options to choose from. 
 A Custom metadata type was created to represent the new field type and the values available in this field have been inserted as Metadata Records.
 
 The following two images display the visual result, according to two different sections the sub-Industry field display different values.
