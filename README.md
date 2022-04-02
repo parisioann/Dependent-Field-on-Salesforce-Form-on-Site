@@ -1,5 +1,4 @@
 # Dependent-Field-on-Salesforce-Form-on-Site
-Real world example of integrating a dependent field in a SF form on a SF Site.
 
 The images below show the creation of a dependent field called 'Sub-Industry'. According to the user selection on the Indsutry field above it will display the appropriate picklist values. Those values come from the gov.uk site. Due to the volume of those values, a programmatic approach was needed.
 (As this is a real world example implemented by me on behalf of my company, no code will be available). The images below show the full code written for this fucntion and the UI result.
