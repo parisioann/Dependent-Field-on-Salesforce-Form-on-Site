@@ -1,4 +1,4 @@
-# Dependent-Field-on-Salesforce-Form-on-Site
+# Dependent-Field-in-Form-on-Salesforce-Site
 
 The images below show the creation of a dependent field called 'Sub-Industry'. According to the user selection on the Indsutry field above it will display the appropriate picklist values. Those values come from the gov.uk site. Due to the volume of those values, a programmatic approach was needed.
 (As this is a real world example implemented by me on behalf of a previous employer, no code files will be available). The images below show the related code written for this fucntion and the UI result.
